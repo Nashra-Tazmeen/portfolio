@@ -26,7 +26,7 @@ Stock-Price-Prediction-And-Forecasting-Using-Stacked-LSTM" is a project where I 
 
 # Implementing Latent Dirichlet Allocation (LDA) for coherence score calculation
 
-<img src="https://github.com/Nashra-Tazmeen/Topic-Modelling-LDA/blob/main/Images/Image1.jpeg?raw=true?" alt="Description of the image" width="640" height="480">
+<img src="https://github.com/Nashra-Tazmeen/Topic-Modelling-LDA/blob/main/Images/Image1.jpeg?raw=true?" alt="Description of the image" width="940" height="480">
 
 
 This notebook is dedicated to implementing Latent Dirichlet Allocation (LDA) for coherence score calculation, serving as the primary objective of the project.
