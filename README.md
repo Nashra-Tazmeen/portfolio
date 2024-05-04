@@ -7,10 +7,9 @@
 <img src="https://github.com/Nashra-Tazmeen/-CNN-based-Potato-Disease-Diagnosis/blob/main/Images/Images.jpeg" alt="Description of the image" width="640" height="480">
 
 
-[![](https://user-images.githubusercontent.com/95362584/282869959-66102f05-ef40-44b0-be55-5e76ab112828.mp4)](https://user-images.githubusercontent.com/95362584/282869959-66102f05-ef40-44b0-be55-5e76ab112828.mp4)
 
-
-This project integrates OpenCV, YOLOv5, and EasyOCR to develop an efficient license plate detection system. OpenCV provides foundational image processing, YOLOv5 enables real-time object detection, particularly focusing on license plates, and EasyOCR seamlessly extracts and recognizes license plate characters. 
+This project focuses on leveraging Convolutional Neural Networks (CNN) to classify potato plants into three categories: Healthy, Early Blight, and Late Blight.
+project's comprehensive visualizations showcase the training accuracy, validation accuracy, and training loss,validation loss providing a clear overview of the model's learning
 
 [View full project...](https://github.com/Nashra-Tazmeen/-CNN-based-Potato-Disease-Diagnosis.git)
 
