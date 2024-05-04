@@ -4,7 +4,7 @@
 
 # CNN-based-Potato-Disease-Diagnosis
 
-<img src="Images/Images.jpeg" alt="Description of the image" width="640" height="480">
+<img src="https://github.com/Nashra-Tazmeen/-CNN-based-Potato-Disease-Diagnosis/blob/main/Images/Images.jpeg" alt="Description of the image" width="640" height="480">
 
 
 [![](https://user-images.githubusercontent.com/95362584/282869959-66102f05-ef40-44b0-be55-5e76ab112828.mp4)](https://user-images.githubusercontent.com/95362584/282869959-66102f05-ef40-44b0-be55-5e76ab112828.mp4)
