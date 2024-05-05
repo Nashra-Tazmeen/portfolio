@@ -38,7 +38,6 @@ he implementation follows a systematic approach, starting with data preprocessin
 
 # Botnet-Detection
 
-<img src="https://github.com/Nashra-Tazmeen/-CNN-based-Potato-Disease-Diagnosis/blob/main/Images/Images.jpeg?raw=true" alt="Description of the image" width="640" height="480">
 
 As we know security remained one of the top research areas in networking whether it is based on cloud computing or fog computing. Several researchers are focusing on detecting botnet attacks.
 
