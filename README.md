@@ -1,4 +1,5 @@
 
+
 # Projects
 
 
@@ -33,6 +34,18 @@ This project is dedicated to implementing Latent Dirichlet Allocation (LDA) for 
 he implementation follows a systematic approach, starting with data preprocessing and moving on to LDA model training and evaluation.
 
 [View full project...](https://github.com/Nashra-Tazmeen/Topic-Modelling-LDA)
+
+
+# Botnet-Detection
+
+<img src="https://github.com/Nashra-Tazmeen/-CNN-based-Potato-Disease-Diagnosis/blob/main/Images/Images.jpeg?raw=true" alt="Description of the image" width="640" height="480">
+
+As we know security remained one of the top research areas in networking whether it is based on cloud computing or fog computing. Several researchers are focusing on detecting botnet attacks.
+
+Here in this project, I have generated a botnet detection Ml model employing a sophisticated algorithm leveraging features and analysis through supervised learning techniques enabling it to identify potential Botnets with high accuracy.
+
+
+[View full project...](https://github.com/Nashra-Tazmeen/Botnet-Detection)
 
 
 
