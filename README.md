@@ -46,6 +46,15 @@ Here in this project, I have generated a botnet detection Ml model employing a s
 
 [View full project...](https://github.com/Nashra-Tazmeen/Botnet-Detection)
 
+# Data-Extraction-and-NLTK
+
+<img src="https://raw.githubusercontent.com/Nashra-Tazmeen/Data-Extraction-and-NLTK/main/Images/Python_NLTK.webp" alt="Description of the image" width="640" height="480">
+
+
+Utilizing Selenium for data extraction and NLTK for text analysis, this project delves into the realms of Natural Language Processing (NLP). Employing a robust pipeline, we extract relevant data from the web and subject it to thorough analysis. From uncovering semantic nuances to sentiment analysis, the integration of these tools provides a comprehensive understanding of textual content.
+[View full project...](https://github.com/Nashra-Tazmeen/Data-Extraction-and-NLTK.git)
+
+
 
 
 
