@@ -3,9 +3,7 @@ logo: https://avatars.githubusercontent.com/u/108357611?v=4
 description: Data science
 #show_downloads: true
 theme: jekyll-theme-minimal
-<h3>Top Skills:</h3>
-<ul>
-    <li>Machine Learning</li>
-    <li>Data Visualization</li>
-    <li>Data Analysis</li>
-</ul>
+skills:
+  - Machine Learning
+  - Data Visualization
+  - Data Analysis
