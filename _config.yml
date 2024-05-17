@@ -4,3 +4,73 @@ description: Data science
 #show_downloads: true
 theme: jekyll-theme-minimal
 
+plugins:
+  - jekyll-seo-tag
+
+# Custom domain (replace example.com with your domain)
+# Uncomment the line below if you have a custom domain
+#url: "https://example.com"
+
+# Google Analytics (replace UA-XXXXXXXXX-X with your tracking ID)
+# Uncomment the lines below to enable Google Analytics
+#google_analytics: UA-XXXXXXXXX-X
+
+# Sidebar navigation
+collections:
+  sidebar:
+    output: true
+
+defaults:
+  - scope:
+      path: ""
+      type: "sidebar"
+    values:
+      layout: "default"
+      permalink: "/:path/"
+
+# Navigation links
+navbar_links:
+  - title: Home
+    url: /
+
+  - title: About
+    url: /about
+
+  - title: Projects
+    url: /projects
+
+  - title: Blog
+    url: /blog
+
+# Social media links
+social:
+  - title: LinkedIn
+    url: https://www.linkedin.com/in/nashra-tazmeen/
+    icon: linkedin
+
+  - title: GitHub
+    url: https://github.com/nashratazmeen
+    icon: github
+
+# Footer text
+footer_text: "© 2024 Nashra Tazmeen. All rights reserved."
+
+# Additional CSS styles
+# Uncomment the lines below to add custom CSS styles
+#sass:
+#  style: compressed
+#  load_paths:
+#    - _sass
+
+# Additional JavaScript files
+# Uncomment the lines below to add custom JavaScript files
+#scripts:
+#  - "/assets/js/custom.js"
+
+# Plugins
+# Uncomment the lines below to add additional plugins
+#plugins:
+#  - jekyll-feed
+#  - jekyll-seo-tag
+
+
