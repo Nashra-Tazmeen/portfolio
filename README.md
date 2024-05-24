@@ -3,6 +3,19 @@
 # Projects
 
 
+# sentimental-model-with-TF-and-transformers
+
+
+<img src="https://github.com/Nashra-Tazmeen/-CNN-based-Potato-Disease-Diagnosis/blob/main/Images/Images.jpeg?raw=true" alt="Description of the image" width="640" height="480">
+
+
+
+
+[View full project...](https://github.com/Nashra-Tazmeen/sentimental-model-with-TF-and-transformers)
+
+
+
+
 
 # CNN-based-Potato-Disease-Diagnosis
 
