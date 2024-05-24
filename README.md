@@ -3,7 +3,7 @@
 # Projects
 
 
-# sentimental-model-with-TF-and-transformers
+# sentimental model with TensorFlow and Transformers
 
 
 <img src="https://github.com/Nashra-Tazmeen/sentimental-model-with-TF-and-transformers/blob/main/image.jpeg?raw=true" alt="Description of the image" width="640" height="480">
