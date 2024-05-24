@@ -6,8 +6,9 @@
 # sentimental-model-with-TF-and-transformers
 
 
-<img src="https://github.com/Nashra-Tazmeen/-CNN-based-Potato-Disease-Diagnosis/blob/main/Images/Images.jpeg?raw=true" alt="Description of the image" width="640" height="480">
+<img src="https://github.com/Nashra-Tazmeen/sentimental-model-with-TF-and-transformers/blob/main/image.jpeg?raw=true" alt="Description of the image" width="640" height="480">
 
+In this project, I developed a sentiment classifier using TensorFlow and Transformers, focusing on the Rotten Tomatoes movie dataset. Leveraging deep learning techniques, I trained a transformer-based model to classify movie reviews as either positive or negative sentiments. By fine-tuning a pre-trained model from the Transformers library, I optimized the model's performance on the sentiment analysis task. The trained model was deployed as a web service, enabling real-time sentiment analysis of movie reviews. This project showcases my proficiency in natural language processing (NLP) and deep learning, demonstrating my ability to extract meaningful insights from textual data for sentiment analysis tasks.
 
 
 
