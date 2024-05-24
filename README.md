@@ -11,7 +11,7 @@
 In this project, I have developed a sentiment classifier using TensorFlow and Transformers, focusing on the Rotten Tomatoes movie dataset. Leveraging deep learning techniques,  trained a transformer-based model to classify movie reviews as either positive or negative sentiments. By fine-tuning a pre-trained model from the Transformers library,  optimized the model's performance on the sentiment analysis task ,highlighting ability to harness state-of-the-art models like BERT for sentiment analysis tasks.
 
 
-[View full project...](https://github.com/Nashra-Tazmeen/sentimental-model-with-TF-and-transformers)
+[View full project...](https://github.com/Nashra-Tazmeen/sentimental-model-with-TF-and-transformers/blob/main/Sentimental_Analysis_transformers.ipynb)
 
 
 
